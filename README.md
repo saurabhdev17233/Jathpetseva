@@ -1,6 +1,7 @@
 
 ## 🚀 Jathpatseva – Hyperlocal On-Demand Service Platform
 Due to large size of zip file, we uploaded it to drive. Here is the drive link to access the file : https://drive.google.com/file/d/136PNZmV6BRCPSYig2SP4ioh5mRhtuVgF/view?usp=sharing
+
 **Jathpatseva** is a smart hyperlocal service platform designed to connect people with nearby service providers such as plumbers 🔧, electricians ⚡, carpenters 🪚, technicians 🧰, and other essential household workers.
 
 Finding a reliable service provider in urgent situations can often be frustrating. People usually rely on phone contacts, local references, or spend time searching for workers. **Jathpatseva solves this real-world problem** by creating a digital platform where users can request services instantly and get connected with nearby professionals in real time.
